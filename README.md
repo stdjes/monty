@@ -50,8 +50,8 @@ Feel free to experiment with the code, modify the data structures, and contribut
 
 ## Contributors
 
-- Stephen Djes ([@johndoe](https://github.com/stdjes))
-- Jane Smith ([@janesmith](https://github.com/Addict07))
+- Stephen Djes ([@stdjes](https://github.com/stdjes))
+- Michael Nketia ([@Addict07](https://github.com/Addict07))
 - You! Contribute to this project by opening issues and submitting pull requests.
 
 ## Contributing
