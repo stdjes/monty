@@ -4,7 +4,7 @@
 !*.*
 
 # Ignore main.c test files
-*main.c
+#*main.c
 
 #Ignore temp VI editor files (.swp)
 *.swp
